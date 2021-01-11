@@ -13,7 +13,8 @@ GameObject:
   - component: {fileID: 1852414433744908343}
   - component: {fileID: 6270925909041021105}
   - component: {fileID: 352286762736447506}
-  m_Layer: 0
+  - component: {fileID: 1728006434359034640}
+  m_Layer: 11
   m_Name: Bullett_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -140,3 +141,16 @@ MonoBehaviour:
   explodeOnDestroy: 0
   explodeDelay: 0
   hideClonesInHierarchy: 1
+--- !u!135 &1728006434359034640
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7940683687541401900}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.16666667
+  m_Center: {x: 0, y: 0, z: 0}
