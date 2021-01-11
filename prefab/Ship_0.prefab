@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6544941539714887069}
   - component: {fileID: 4318259170583508433}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65,7 +65,7 @@ GameObject:
   - component: {fileID: 7181291062241687761}
   - component: {fileID: 318547320717542947}
   - component: {fileID: 2024045383936668974}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ship_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}

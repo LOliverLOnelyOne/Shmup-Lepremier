@@ -102,7 +102,7 @@ MonoBehaviour:
   hpMax: 100
   hp: 100
   invincible: 0
-  velocity: {x: 0, y: 0, z: 0}
+  velocity: {x: 0, y: -1, z: 0}
   angularVelocity: {x: 0, y: 0, z: 0}
   drag: 0
 --- !u!114 &4573212837602254967
