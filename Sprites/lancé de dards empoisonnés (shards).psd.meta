@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 98a2bb6c2d6e6c14dab10e39e2aba429
+guid: 744fe9f6ac2640f4c83731c1e7ed7aa4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8531119830499108078
-    second: EnemyBulletWasp01
+      213: -8118692528353867724
+    second: "lanc\xE9 de dards empoisonn\xE9s (shards)_0"
+  - first:
+      213: 7499530636654831706
+    second: "lanc\xE9 de dards empoisonn\xE9s (shards)_1"
+  - first:
+      213: -4837593957376589647
+    second: "lanc\xE9 de dards empoisonn\xE9s (shards)_2"
+  - first:
+      213: 8397536111849116292
+    second: "lanc\xE9 de dards empoisonn\xE9s (shards)_3"
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -94,22 +103,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EnemyBulletWasp01
+      name: "lanc\xE9 de dards empoisonn\xE9s (shards)_0"
       rect:
         serializedVersion: 2
-        x: 54
-        y: 62
-        width: 40
-        height: 6
+        x: 58
+        y: 67
+        width: 6
+        height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee4a0393940a46670800000000000000
-      internalID: 8531119830499108078
+      spriteID: 43889def82c945f80800000000000000
+      internalID: -8118692528353867724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "lanc\xE9 de dards empoisonn\xE9s (shards)_1"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 74
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5868fb316fa31860800000000000000
+      internalID: 7499530636654831706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "lanc\xE9 de dards empoisonn\xE9s (shards)_2"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 60
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b00efa2de96ddcb0800000000000000
+      internalID: -4837593957376589647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "lanc\xE9 de dards empoisonn\xE9s (shards)_3"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48218470a9a0a8470800000000000000
+      internalID: 8397536111849116292
       vertices: []
       indices: 
       edges: []
@@ -117,7 +189,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 77cf4c9824133034e873f2e61eb8d6be
+    spriteID: d4c785d0d4aabfd4bb5daed71e52c0d3
     internalID: 0
     vertices: []
     indices: 

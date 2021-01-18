@@ -1,10 +1,7 @@
 fileFormatVersion: 2
-guid: 98a2bb6c2d6e6c14dab10e39e2aba429
+guid: f9b43de7365c3664ea9986d476ebb137
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 8531119830499108078
-    second: EnemyBulletWasp01
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -92,32 +89,11 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: EnemyBulletWasp01
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 62
-        width: 40
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee4a0393940a46670800000000000000
-      internalID: 8531119830499108078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 77cf4c9824133034e873f2e61eb8d6be
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
